@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\yuzhe\downloads\0516212_hw4\hi\0516212_hw4\vertexshaderexample\vertexshaderexample\main.cpp(156): warning C4101: 'tmp': 未參考的區域變數
+c:\users\yuzhe\downloads\0516212_hw4\hi\0516212_hw4\vertexshaderexample\vertexshaderexample\main.cpp(156): warning C4101: 'center_e_tran': 未參考的區域變數
+c:\users\yuzhe\downloads\0516212_hw4\hi\0516212_hw4\vertexshaderexample\vertexshaderexample\main.cpp(153): warning C4101: 'tmppp': 未參考的區域變數
+c:\users\yuzhe\downloads\0516212_hw4\hi\0516212_hw4\vertexshaderexample\vertexshaderexample\main.cpp(156): warning C4101: 'center_c_tran': 未參考的區域變數
+c:\users\yuzhe\downloads\0516212_hw4\hi\0516212_hw4\vertexshaderexample\vertexshaderexample\main.cpp(156): warning C4101: 'tmp2': 未參考的區域變數
+  VertexShaderExample.vcxproj -> C:\Users\Yuzhe\Downloads\0516212_hw4\hi\0516212_hw4\VertexShaderExample\Debug\VertexShaderExample.exe
